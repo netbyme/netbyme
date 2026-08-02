@@ -38,8 +38,6 @@
 
 ---
 
-## 🛠️ Toolkit
-
 
 ## 🛠️ Toolkit
 
@@ -76,7 +74,9 @@
 ![Packet Tracer](https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-Development-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-Collaboration-4A154B?style=flat&logo=slack&logoColor=white)## 📊 Activity
+![Slack](https://img.shields.io/badge/Slack-Collaboration-4A154B?style=flat&logo=slack&logoColor=white)
+
+## 📊 Activity
 
 <div align="center">
 
