@@ -1,0 +1,6 @@
+*.py[cod]
+.DS_Store
+.venv/
+__pycache__/
+preview.md
+source/
