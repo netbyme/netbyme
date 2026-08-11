@@ -28,7 +28,7 @@
 
 ---
 
-## 📡 Network Automation Labs
+##  Network Automation Labs
 
 | Lab | What It Solves | Tools |
 |-----|---------------|-------|
