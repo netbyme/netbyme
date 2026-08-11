@@ -19,7 +19,7 @@
 
 ---
 
-## 🎯 What I Do
+##  What I Do
 
 - **Day job**: IT Support & Helpdesk — keeping infrastructure running
 - **Side mission**: Automating network operations with Python
@@ -39,7 +39,7 @@
 ---
 
 
-## 🛠️ Toolkit
+##  Toolkit
 
 ### Networking
 
@@ -76,7 +76,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-Development-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-Collaboration-4A154B?style=flat&logo=slack&logoColor=white)
 
-## 📊 Activity
+##  Activity
 
 <div align="center">
 
