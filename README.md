@@ -4,7 +4,7 @@
 
   <br>
 
-  <b>Full-Stack Developer → Network Automation Engineer</b>
+  <b>IT Infrastructure & Software Developer</b>
   <br>
   <sub>Casablanca, Morocco 🇲🇦</sub>
 
